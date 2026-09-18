@@ -1,7 +1,19 @@
 # 🛡️ Fraud Detection AI
 
 ## AI-Powered Transaction Risk Analysis
+## 🖥️ Dashboard Preview
 
+### 📊 Dashboard Overview
+
+![Fraud Detection AI Overview](outputs/Fraud_Detection_AI_Overview.png)
+
+### 📂 Batch Transaction Analysis
+
+![Fraud Detection AI Analysis](outputs/Fraud_Detection_AI_Analysis.png)
+
+### 🔍 Individual Transaction Analysis
+
+![Fraud Detection AI Individual Analysis](outputs/Fraud_Detection_AI_Analysis2.png)
 Fraud Detection AI is a Machine Learning application designed to identify potentially fraudulent financial transactions and analyze transaction risk.
 
 The project uses a Random Forest classification model and provides an interactive Streamlit dashboard for both individual transaction analysis and batch CSV analysis.
